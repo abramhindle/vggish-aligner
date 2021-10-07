@@ -1,5 +1,8 @@
 # This is a fork of Model Garden for Tensorflow for the purpose of trying out VGGish and aligning audio
 
+* [VGGish](./research/audioset/vggish)
+* [vggish_align.py](./research/audioset/vggish/vggish_align.py)
+* [vggish_extract.py](./research/audioset/vggish/vggish_extract.py)
 
 
 ![Logo](https://storage.googleapis.com/tf_model_garden/tf_model_garden_logo.png)
